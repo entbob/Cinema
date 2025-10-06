@@ -8,6 +8,7 @@ Réalisateurs et réalisatrices de film
 ###  Phase exploratoire
 
 
-* [Problématique et questionnement](Problematique-Questionnement.md) 
-* [Listes film directors](Listes-film-directors.md)
-* [Catalogue des informations](Catalogue-des-informations.md)
+* [Problématique et questionnement](problematique-questionnement.md) 
+* [Listes film directors](listes-film-directors.md)
+* [Catalogue des informations](catalogue-des-informations.md)
+
