@@ -1,7 +1,7 @@
 # Film directors
 
 
-Réalisateurs et réalisatrices de film
+Réalisateurs et réalisatrices de film / film directors.
 
 [Back to the repository README](../README.md)
 
@@ -11,4 +11,3 @@ Réalisateurs et réalisatrices de film
 * [Problématique et questionnement](problematique-questionnement.md) 
 * [Listes film directors](listes-film-directors-.md)
 * [Catalogue des informations](catalogue-des-information.md)
-
