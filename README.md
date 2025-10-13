@@ -1,4 +1,4 @@
 # Cinema
 
 
-* __[Table of Contents](documentation/Home.md)__
+* __[Table of Contents](Documentation/Home.md)__
